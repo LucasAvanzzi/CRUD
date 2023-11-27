@@ -5,6 +5,17 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD", "CRUD\CRUD.csproj", "{5F9895B0-7C45-4037-A725-2BCD64EE4F35}"
 EndProject
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{79ACBB77-5874-4BF1-8B21-7B2C8DA95CBD}"
+	ProjectSection(SolutionItems) = preProject
+		BancoContext.cs = BancoContext.cs
+	EndProjectSection
+EndProject
+>>>>>>> bd7d104a8a02953ca4f3a84226b59e41d157d74b
+>>>>>>> c04e1caf4da1818c7b5fadf6faf97706a6a258e5
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
